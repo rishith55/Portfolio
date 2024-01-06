@@ -291,7 +291,7 @@ header .navbar ul li a:hover{
     padding:2rem 0;
 }
 
-.portfolio .box-container .box{
+.project.box-container .box{
     height: 20rem;
     width:26rem;
     border-radius: 1rem;
@@ -300,13 +300,13 @@ header .navbar ul li a:hover{
     cursor: pointer;
 }
 
-.portfolio .box-container .box img{
+.project .box-container .box img{
     height:100%;
     width:100%;
     object-fit: cover;
 }
 
-.portfolio .box-container .box:hover img{
+.pproject .box-container .box:hover img{
     transform: scale(1.2);
 }
 
