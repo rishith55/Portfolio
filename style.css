@@ -273,7 +273,7 @@ header .navbar ul li a:hover{
     background:var(--springGreen);
 }
 
-.portfolio .box-container{
+.project.box-container{
     display: flex;
     align-items: center;
     justify-content: center;
