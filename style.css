@@ -373,12 +373,12 @@ header .navbar ul li a:hover{
     padding-right: 1rem;
     color:var(--springGreen);
 }
-.top{
-    position: fixed;
-    bottom:7.5rem; right: 2rem;
-    z-index: 100;
-    display: none;
-}
+footer {
+    background-color: white;
+    margin-top: 2em;
+    text-align: center;
+    color: black;
+  }
 
 
 
